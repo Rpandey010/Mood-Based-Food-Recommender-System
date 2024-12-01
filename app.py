@@ -104,7 +104,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-#Vishrut
+#Vishrut Pradhan
 # Title and description
 st.title("🍽️ Mood-Based Food Recommender 🍕")
 st.write(
